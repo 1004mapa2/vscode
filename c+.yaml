@@ -1,5 +1,7 @@
 team: c+
 
+coach : c
+
 members:
 - c
 - +
