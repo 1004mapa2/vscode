@@ -7,6 +7,13 @@ members:
 - h
 - o
 - n
+<<<<<<< HEAD
 
 main plus:
 - 2
+=======
+- p
+- l
+- u
+- s
+>>>>>>> members_plus

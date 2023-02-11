@@ -3,6 +3,13 @@ team: c+
 members:
 - c
 - +
+<<<<<<< HEAD
 
 main plus:
 - 3
+=======
+- p
+- l
+- u
+- s
+>>>>>>> members_plus
